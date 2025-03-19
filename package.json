@@ -1,0 +1,17 @@
+{
+  "name": "bac",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/nikitaSB01/React_router-two-bac.git",
+  "author": "nikitaSB01 <boss.shvabauer@bk.ru>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
